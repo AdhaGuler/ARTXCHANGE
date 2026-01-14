@@ -1,0 +1,15 @@
+# Firebase Configuration
+# Copy this file to firebase.properties and update with your actual values
+
+# Your Firebase Project ID (get this from Firebase Console)
+firebase.project.id=your-firebase-project-id
+
+# Optional: Set this environment variable instead of using the file
+# FIREBASE_PROJECT_ID=your-firebase-project-id
+
+# Instructions:
+# 1. Go to Firebase Console: https://console.firebase.google.com/
+# 2. Select your project
+# 3. Go to Project Settings > General
+# 4. Copy your Project ID and replace "your-firebase-project-id" above
+# 5. Download service account key and save as src/main/resources/firebase-service-account.json
